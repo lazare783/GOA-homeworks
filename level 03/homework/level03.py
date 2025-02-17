@@ -1,0 +1,5 @@
+input(6)
+input(10)
+input(23)
+input(17)
+print((6 + 10 + 23 + 17) / 4)
