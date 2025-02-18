@@ -1,3 +1,3 @@
-y == input("lazare")
-x == input("burduli")
-print("hello " + y + x)
+x = input("what is your name?")
+y = input("what is your surname?")
+print("hello, " + x + " " + y)

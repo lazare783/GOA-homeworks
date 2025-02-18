@@ -1,2 +1,4 @@
-name = "lazare"
-name = input("name")
+x = int(input("enter number:"))
+y = int(input("enter number:"))
+z = int(input("enter number:"))
+print(x + y + z)
