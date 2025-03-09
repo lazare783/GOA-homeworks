@@ -1,7 +1,7 @@
-x = input("enter word : ")
-res = " "
+x = input("Enter some letters: ")
+y = ""
 
 for i in x:
-    
-    print(i)
-    res = i + res
+    y = i + y
+
+print(y)
